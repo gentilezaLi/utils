@@ -89,6 +89,10 @@ export function clamp(value, min, max) {
   return Math.min(Math.max(value, min), max);
 }
 
+export function add(a, b) {
+  return a + b;
+}
+
 const utils = {
   unique,
   chunk,
@@ -96,7 +100,8 @@ const utils = {
   deepClone,
   pick,
   omit,
-  clamp
+  clamp,
+  add,
 };
 
 export default utils;
