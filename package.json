@@ -1,0 +1,14 @@
+{
+  "name": "@lishengzhi/utils",
+  "version": "1.0.0",
+  "description": "Reusable JavaScript utility methods",
+  "main": "index.js",
+  "type": "module",
+  "exports": {
+    ".": "./index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "license": "MIT"
+}
