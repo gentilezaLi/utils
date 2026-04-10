@@ -1,5 +1,5 @@
 {
-  "name": "@lishengzhi/utils",
+  "name": "@auto/utils",
   "version": "1.0.0",
   "description": "Reusable JavaScript utility methods",
   "main": "index.js",
